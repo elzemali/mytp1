@@ -14,10 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //32 < 30
-        int i =5;
-        //
-        int i;
-        i=5;
+
 
         // 20
     }
